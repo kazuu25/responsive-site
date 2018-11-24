@@ -1,0 +1,26 @@
+@import "compass";
+main{
+    width:100%;
+ h1{
+    text-align:center;
+}
+
+.content{
+    display:inline-block;
+    width:33%;
+    text-align:center;
+}
+
+footer{
+    text-align:center;
+}
+
+footer a{
+    display:inline-block;
+    border:1px solid black;
+}
+.contents{
+    display:flex;
+}
+
+/*# sourceMappingURL=style.css.map */
