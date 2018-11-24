@@ -61,12 +61,27 @@ footer p{
     margin-top:15px;
 }
 
-footer a{
-    color:blue;
+.button{
+    color:black;
     display:inline-block;
     border:1px solid black;
     margin-top:15px;
+    background-color:#7F7F7F;
+    padding:10px 20px;
+    font-weight:bold;
+    text-decoration:none;
+    border-radius:10px;
+    box-shadow:4px 4px #555;
 }
+
+.button:active{
+    position:relative;
+    top:4px;
+    left:4px;
+    box-shadow:none;
+}
+
+
 
 
 /*# sourceMappingURL=style.css.map */
